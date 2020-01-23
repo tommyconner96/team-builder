@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add create-react-app
+
+PATH: 
+  C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Tommy Conner\bin;C:\Python27;C:\Python27\Scripts;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\ia32;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\PuTTY;C:\Program Files\Calibre2;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin;C:\Users\Tommy Conner\AppData\Local\Programs\Python\Python36-32\Scripts;C:\Users\Tommy Conner\AppData\Local\Programs\Python\Python36-32;C:\Users\Tommy Conner\AppData\Local\Microsoft\WindowsApps;C:\Users\Tommy Conner\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Tommy Conner\AppData\Roaming\npm;C:\Users\Tommy Conner\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.19.1
+
+Node version: 
+  12.13.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Users\Tommy Conner\lambda1\team-builder\package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Program Files (x86)\Yarn\lib\cli.js:304:30)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:315:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
